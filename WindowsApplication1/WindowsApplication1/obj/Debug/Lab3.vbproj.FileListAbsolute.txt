@@ -1,0 +1,11 @@
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\lab3.exe.config
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Lab3.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\lab3.averageFrm.resources
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\lab3.Resources.resources
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Lab3.vbproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\lab3.xml
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\lab3.exe
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\lab3.pdb
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\lab3.xml
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\lab3.exe
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\lab3.pdb

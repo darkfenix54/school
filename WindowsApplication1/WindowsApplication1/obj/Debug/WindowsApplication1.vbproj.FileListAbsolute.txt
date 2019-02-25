@@ -1,0 +1,36 @@
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\forfun\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\forfun\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\forfun\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\forfun\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\forfun\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\forfun\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\forfun\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\forfun\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\forfun\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\forfun\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\forfun\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.averageFrm.resources
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\lab3\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\lab3\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\lab3\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\lab3\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.averageFrm.resources
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\kevin\OneDrive\Documents\Desktop shor\school\sem2(year1)\NetD\Lab3\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.averageFrm.resources
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\lab3.exe.config
+C:\Users\kevin\OneDrive\Documents\Visual Studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\lab3.xml
